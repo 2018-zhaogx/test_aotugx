@@ -1,0 +1,3 @@
+name age sex chengji 
+小明 20 男 90 
+小红 21 女 100 

@@ -1,0 +1,9 @@
+---
+id1:
+  ziyouzuche: com.aotuzuche.tanker:id/rb_short
+  duanzuche: com.aotuzuche.tanker:id/rb_long_short
+  haowandeche: com.aotuzuche.tanker:id/rb_long
+  lijiyongche: com.aotuzuche.tanker:id/tv_now_use_car
+  zuixinhuodong: com.aotuzuche.tanker:id/llyout_ad_root
+  gengduo: com.aotuzuche.tanker:id/tv_more_ad
+cla1: android.widget.TextView
